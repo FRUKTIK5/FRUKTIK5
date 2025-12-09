@@ -1,6 +1,6 @@
 - 👋 Приветик, Я Фруктик ну или же Михаил / Hi, I'm FRUKTIK or Mikhail
-- 👀 Учусь бэк энду пока что / learning back-end for now
-- 🌱 Прямо сейчас учусь бэк энду/ learning back-end (in college btw)
+- 👀 Учу ардуино т.е. программирование микроконтроллеров / learning microcontroller programming
+- 🌱 Прямо сейчас учусь не понятно чему ) / I don't know what I am learning now)
 - 📫 Контакты/contacts: Discord(FRUKTIK5)
 
 <!---
